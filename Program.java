@@ -4,10 +4,9 @@ public class Program {
         System.out.println("Welcome java");
         Zebra zebra = new Zebra();
         zebra.say();
-<<<<<<< HEAD
+
         Giraffe giraffe = new Giraffe();
         giraffe.say();
-=======
->>>>>>> master
+
     }
 }

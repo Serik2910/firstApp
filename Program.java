@@ -6,7 +6,7 @@ public class Program {
         zebra.say();
 
         Giraffe giraffe = new Giraffe();
-        giraffe.say(); //comment
+        giraffe.say(); //another comment
 
     }
 }
